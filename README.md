@@ -4,14 +4,6 @@
 This project focuses on **web scraping and exploratory data analysis (EDA)** of Air Conditioner (AC) products listed on **Flipkart**, one of India’s leading e-commerce platforms. The primary goal is to extract, clean, and analyze product data to uncover insights about **pricing trends, brand performance, and customer preferences**.
 
 Through this analysis, we aim to help businesses improve their **recommendation systems**, **optimize inventory**, and support **data-driven decisions** that enhance product visibility and customer satisfaction.
-
----
-
-## 👨‍💻 About Me
-I’m **Buddepu Vivek**, from **Innomatics Research Labs**, with a strong interest in **Exploratory Data Analytics (EDA)**.  
-Skilled in **data collection, cleaning, and visualization** using Python and analytical tools.  
-I enjoy exploring real-world datasets to uncover insights that support better business strategies.
-
 ---
 
 ## 🧩 Business Problem
