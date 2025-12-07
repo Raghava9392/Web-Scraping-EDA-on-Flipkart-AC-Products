@@ -117,7 +117,6 @@ By analyzing prices, features, and customer ratings, we identified **market tren
 ---
 
 ### 🏷️ Author
-**Buddepu Vivek**  
-📍 Data Analyst | Innomatics Research Labs  
-📧 [Add your email here if desired]  
-🔗 [LinkedIn Profile Link]
+**POTHULA RAGHAVENDRA REDDY**    
+📧 [pothularaghava90@gmail.com]
+
